@@ -57,6 +57,9 @@ const NavBar = (props) => {
 							>
 								<Link to="/contact">Contact</Link>
 							</li>
+							<li className="resume">
+								<a href="/resume.pdf" download>Download Resume</a>
+							</li>
 						</ul>
 					</div>
 				</nav>

@@ -16,8 +16,25 @@
 	z-index: 999;
 }
 
+.resume{
+	font-size: 75%;
+	border: 2px solid var(--primary-color);
+	border-radius: 20px;
+	padding: 4px;
+	margin: -5px;
+	color: azure;
+	background-color: aquamarine;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: bold;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: var(--primary-color);
+}
+
 .nav-background {
-	width: 380px;
+	width: 450px;
 	height: 40px;
 	padding-left: 0%;
 	padding-right: 0%;
